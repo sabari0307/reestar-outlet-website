@@ -13,7 +13,7 @@ This is a simple online food ordering website for a restaurant outlet. It allows
 
 - **HTML:** Structure of the website.
 - **CSS:** Styling for the layout, colors, fonts, and responsive design.
-- 
+
 ## Demo
 
 [[Link](https://sabari0307.github.io/reestar-outlet-website/)]
